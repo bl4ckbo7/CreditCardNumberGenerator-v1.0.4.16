@@ -1,0 +1,8 @@
+19 July 2017
+   Released version 1.0.4 of CREDIT CARD NUMBER GENERATOR
+
+   
+  
+Change log:
+-Fixed: Fixed Exceptions handling segments.
+

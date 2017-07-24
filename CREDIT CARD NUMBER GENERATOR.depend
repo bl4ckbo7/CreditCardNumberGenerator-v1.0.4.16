@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1500331487 source:e:\computer science\xtras\cpp projects\c++ projects\credit card number generator\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<math.h>
+	<ctime>
+	<fstream>
+	"version.h"
+	"Exceptions.h"
+
+1500340978 e:\computer science\xtras\cpp projects\c++ projects\credit card number generator\version.h
+
+1500328934 e:\computer science\xtras\cpp projects\c++ projects\credit card number generator\exceptions.h
+
